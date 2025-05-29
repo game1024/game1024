@@ -1,7 +1,8 @@
 ## Hi there 👋
-[![Game1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=game1024)](https://github.com/game1024/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=game1024)](https://github.com/game1024/)
+
+| <img src="https://github-readme-stats.vercel.app/api?username=game1024&hide_title=true&hide_border=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true"> |
+|--|--|
 
 <!--
 **game1024/game1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
