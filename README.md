@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=game1024&hide_title=true&hide_border=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=game1024&hide_title=true&hide_border=true&show_icons=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true"> |
 |--|--|
 
 <!--
