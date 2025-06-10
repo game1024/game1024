@@ -1,5 +1,6 @@
-## Hi there 👋
- 
+## Hi I'm Game1024 👋
+<img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
+
 <table>
 
   <thead>
