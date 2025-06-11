@@ -1,9 +1,7 @@
 ## Hi I'm Game1024 👋
+
 <img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true">
-</p>
 <p align="center">【唐】李翱</p>
 <p align="center">练得身形似鹤形，千株松下两函经</p>
 <p align="center">我来问道无馀说，云在青天水在瓶</p>
@@ -13,6 +11,7 @@
 <img width="100%" src="https://streak-stats.demolab.com/?user=game1024&hide_border=true&theme=default">
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true">
 
 
 <!--
