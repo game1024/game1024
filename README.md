@@ -1,4 +1,5 @@
-## Hi I'm Game1024 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Game1024.;A+CPP+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
 
 <img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
 
@@ -11,9 +12,7 @@
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=game1024&hide_border=true&theme=default">
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true">
-
 
 <!--
 **game1024/game1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
