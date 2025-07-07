@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Game1024.;A+CPP+Developer.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Game1024.;A+BUG+Maker.;An+Open+Source+Contributor.)](https://git.io/typing-svg)
 
 <img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
 
