@@ -3,7 +3,6 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
 
-<p align="center">【唐】李翱</p>
 <p align="center">练得身形似鹤形，千株松下两函经</p>
 <p align="center">我来问道无馀说，云在青天水在瓶</p>
 
