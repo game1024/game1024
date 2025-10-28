@@ -7,7 +7,7 @@
 <p align="center">我来问道无馀说，云在青天水在瓶</p>
 
 ## 📊Github Stats
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=game1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&bg_color=30,e96443,904e95&text_color=fff">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=game1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=vue">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=game1024&hide_border=true&theme=default">
 
