@@ -6,12 +6,22 @@
 <p align="center">练得身形似鹤形，千株松下两函经</p>
 <p align="center">我来问道无馀说，云在青天水在瓶</p>
 
+## 商务合作
+
+<p align="center">
+  <img width="30%" src="https://github.com/user-attachments/assets/e6ee1ad8-401c-413e-a85c-d02aaa21fd3e">
+</p>
+
 ## 📊Github Stats
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=game1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=vue">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=game1024&hide_border=true&theme=default">
 
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true">
+</div>
+
+
 
 <!--
 **game1024/game1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
