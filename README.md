@@ -31,7 +31,7 @@
 
 <p align="center">
   <b>商务合作</b><br/>
-  <b>请备注添加原因, 不备注不通过（软件问题去仓库提Issue, 本微信不回答问题）</b>
+  <b>请备注添加原因, 不备注不通过(只处理商务信息,不要乱加)</b>
 </p>
 <p align="center">
   <img width="30%" src="https://github.com/user-attachments/assets/e6ee1ad8-401c-413e-a85c-d02aaa21fd3e">
