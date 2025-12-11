@@ -13,10 +13,10 @@
 <table>
     <tr>
       <th>
-          <img src="https://github-readme-stats-kappa-lime-26.vercel.app/api?username=game1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=vue">
+          <img src="https://github-readme-stats-game1024.vercel.app/api?username=game1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=vue">
       </th>
       <th>
-          <img align="right" src="https://github-readme-stats-kappa-lime-26.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true">
+          <img align="right" src="https://github-readme-stats-game1024.vercel.app/api/top-langs/?username=game1024&layout=compact&hide_border=true">
       </th>
     </tr>
 
