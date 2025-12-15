@@ -23,10 +23,6 @@
 </table>
 
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=game1024&hide_border=true&theme=default">
-
-
-
 --- 
 
 <p align="center">
