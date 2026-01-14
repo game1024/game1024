@@ -3,6 +3,10 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
 
+
+- 官方网站：www.fiofio.cn
+- 哔哩哔哩：https://space.bilibili.com/426988409
+
 <p align="center">练得身形似鹤形，千株松下两函经</p>
 <p align="center">我来问道无馀说，云在青天水在瓶</p>
 
@@ -25,7 +29,5 @@
 
 --- 
 
-- 工作室：www.fiofio.cn
-- B站主页：https://space.bilibili.com/426988409
 
 
