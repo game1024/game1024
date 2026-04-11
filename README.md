@@ -9,6 +9,7 @@
 
 - 个人博客：https://gm1024.com
 - 哔哩哔哩：https://space.bilibili.com/426988409
+- 小红书：https://www.xiaohongshu.com/user/profile/6936a746000000003202800d
 
 
 ## 📊Github Stats
