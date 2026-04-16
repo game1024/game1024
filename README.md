@@ -7,9 +7,7 @@
 <p align="center">练得身形似鹤形，千株松下两函经</p>
 <p align="center">我来问道无馀说，云在青天水在瓶</p>
 
-- 个人博客：https://gm1024.com
-- 哔哩哔哩：https://space.bilibili.com/426988409
-- 小红书：https://www.xiaohongshu.com/user/profile/6936a746000000003202800d
+社交平台：<a href="https://gm1024.com">博客</a> / <a href="https://space.bilibili.com/426988409">哔哩哔哩</a> / <a href="https://www.xiaohongshu.com/user/profile/6936a746000000003202800d">小红书</a>
 
 
 ## 📊Github Stats
